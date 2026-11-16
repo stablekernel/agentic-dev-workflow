@@ -1,0 +1,11 @@
+---
+description: rules for writing unit tests
+applyIntelligently: true
+---
+
+- Add or update tests in the same package as code under test.
+- Name tests `Test<function>` or `Test<function>_<condition>` (e.g. `TestDo_Error`, `TestFixDimo_FixDest_DineIn`).
+- Use `testify/require` for failures that should stop the test (errors, panics).
+- Use `testify/assert` for value checks.
+- If a package has multiple struct types with methods, use `testify/suite` to group the tests for those types.
+- Do not access AWS services, RPC endpoints, or network; use mocks and fake credentials.
