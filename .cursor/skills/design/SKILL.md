@@ -5,7 +5,7 @@ description: use to design a solution for a ticket
 
 ## Setup
 
-- @add-ticket
+- @intake
 
 ## Design
 

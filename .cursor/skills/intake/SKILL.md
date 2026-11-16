@@ -14,6 +14,6 @@ description: use to add a ticket
 - doc = read Jira \<ticket>
 - if requirements section or acceptance criteria section missing from doc: stop
 
-- save doc description to `docs/tickets/$ticket.md`:
-  - format as Markdown
+- save doc description as Markdown to `docs/tickets/$ticket.md`:
+  - show section titles as header level 2
   - show paragraphs as bullet list items

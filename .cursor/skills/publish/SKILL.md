@@ -1,6 +1,6 @@
 ---
 name: publish
-description: use to publish an implementation as a pull request
+description: use to publish the implementation of a ticket as a pull request
 ---
 
 ## Setup
