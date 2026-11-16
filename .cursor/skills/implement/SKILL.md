@@ -21,4 +21,3 @@ description: use to implement the design for a ticket
 - @unit-test
 
 - save change log as Markdown to `docs/tickets/$ticket.changelog.md`
-- save git diff as Markdown to `docs/tickets/$ticket.diff.md`
