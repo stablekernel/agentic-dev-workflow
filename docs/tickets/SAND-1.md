@@ -1,9 +1,14 @@
-- Summary:
+## Summary
+
 - Create Rotter application skeleton.
-- Requirements:
+
+## Requirements
+
 - Create command: cmd/main.go, main()
 - Create Run: internal/rotter/rotter.go, Run()
-- Acceptance Criteria:
+
+## Acceptance Criteria
+
 - cmd/main.go exists and contains main()
 - main() runs rotter.Run
 - internal/rotter/rotter.go exists and contains Run()
