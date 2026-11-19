@@ -15,9 +15,10 @@ description: use to implement the design for a ticket
 ## Implement
 
 - doc = read `docs/tickets/$ticket.design.md`
+
 - implement \<doc> in Go:
   - include unit tests
   - do not test `main()`
-- @unit-test
 
+- @unit-test
 - save change log as Markdown to `docs/tickets/$ticket.changelog.md`
