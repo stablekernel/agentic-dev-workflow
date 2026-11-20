@@ -1,0 +1,1 @@
+- When the user prompt is "publish SAND-1", limit the entire reply to 25 lines or fewer.
