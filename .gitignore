@@ -1,4 +1,4 @@
-/cmd/
-/docs/
-/internal/
+cmd/
+docs/
+internal/
 go.*

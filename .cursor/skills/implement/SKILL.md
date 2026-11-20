@@ -16,7 +16,7 @@ description: use to implement the design for a ticket
 
 - doc = read `docs/tickets/$ticket.design.md`
 
-- implement \<doc> in Go:
+- generate code that implements \<doc>:
   - include unit tests
   - do not test `main()`
 
