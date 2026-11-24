@@ -5,6 +5,10 @@ metadata:
   requires: [Cursor CLI (agent), sk-context-mcp]
 ---
 
+- if sk-context MCP not installed: stop
+
 - if sk-context MCP not ready:
-  - if claude: do sk-context authenticate
+  - if claude:
+    - run sk-context authenticate tool
+    - open auth URL in browser
   - if cursor: `agent mcp login sk-context`

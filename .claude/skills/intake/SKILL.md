@@ -1,8 +1,6 @@
 ---
 name: intake
 description: use to add a ticket
-metadata:
-  requires: [sk-context]
 ---
 
 ## Setup
