@@ -1,6 +1,6 @@
 ---
 name: publish
-description: use to publish the implementation of a ticket as a pull request
+description: publish the implementation of a design as a pull request
 metadata:
   requires: [git, gh]
 ---

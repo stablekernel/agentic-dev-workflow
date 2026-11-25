@@ -1,6 +1,6 @@
 ---
 name: implement
-description: use to implement the design for a ticket
+description: implement the design for a ticket
 ---
 
 ## Setup

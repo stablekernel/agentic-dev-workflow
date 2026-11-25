@@ -1,6 +1,6 @@
 ---
 name: sk-auth
-description: use to authenticate the sk-context MCP
+description: authenticate the sk-context MCP
 metadata:
   requires: [Cursor CLI (agent), sk-context-mcp]
 ---

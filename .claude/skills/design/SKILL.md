@@ -1,6 +1,6 @@
 ---
 name: design
-description: use to design a solution for a ticket
+description: design a solution for a ticket
 ---
 
 ## Setup

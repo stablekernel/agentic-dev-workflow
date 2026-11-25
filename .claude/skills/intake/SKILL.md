@@ -1,6 +1,6 @@
 ---
 name: intake
-description: use to add a ticket
+description: add a ticket
 ---
 
 ## Setup
